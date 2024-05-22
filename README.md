@@ -28,9 +28,9 @@ Cluster 2 - 2700 customers. The average order value is lower than other groups, 
 
 Cluster 3 - 8200 customers, most of them have purchased from the health-beauty category. Some have purchased from watches-gifts categories.
 
-Cluster 4 - 24500 customers, pay over the lowest number of installments. They have the lowest recency (180 days since last purchase on average). Some have purchased housewares category.
+Cluster 4 - 24500 customers, pay over the lowest number of installments. They have the lowest recency (180 days since last purchase on average). Some have purchased housewares and watches & gifts categories.
 
-Cluster 5 - 2500 customers, high value customers who spend more than R$ 1000 on average. Perhaps due to high order value, these customers pay over 7+ installments on average.
+Cluster 5 - 2500 customers, high value customers who spend more than R$ 1000 on average. Perhaps due to high order value, these customers pay over 7+ installments on average. Some have purchased from watches & gifts category.
 
 Cluster 6 - 6200 customers - most have purchased from computers-accessories category.
 
@@ -38,13 +38,13 @@ Cluster 7 - 8500 customers, most of them have purchased from the bed-bath-table 
 
 Cluster 8 - 8000 customers, they are purchasers of categories other than the top 20 categories.
 
-These segments can be used to tailor marketing outreach efforts and sales strategies to better meet the needs and preferences of each group. This would result in improved customer satisfaction and loyalty, which would in turn increase customer retention and revenue.
+These cluster can be used to group new customers as they are acquired. These segments can be used to tailor marketing outreach efforts and sales strategies to better meet the needs and preferences of each group. This would result in improved customer satisfaction and loyalty, which would in turn increase customer retention and revenue. Customers may move from one cluster to another over time, based on how they respond to marketing messages and their purchasing behavior.
 
 #### Next steps
-The next round of analysis can focus on refining the customer segments, which may result in some segments getting merged. 
+The next round of analysis can focus on refining the customer segments. 
 
 #### Outline of project
-https://github.com/sundar-subramanian/customer-segmentation/blob/main/ecomm_analysis.ipynb 
+https://github.com/sundar-subramanian/customer-segmentation-final/blob/main/ecomm_analysis.ipynb 
 
 ##### Contact and Further Information
 Sundar Subramanian
